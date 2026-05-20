@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import {
-  SiJavascript, SiTypescript, SiDart,
-  SiReact, SiNextdotjs, SiTailwindcss, SiHtml5, SiCss, SiRedux,
+  SiJavascript, SiTypescript,
+  SiReact, SiNextdotjs, SiTailwindcss, SiHtml5, SiCss,
   SiNodedotjs, SiExpress, SiMongodb, SiMysql, SiFirebase,
   SiGit, SiGithub, SiDocker, SiPostman, SiVercel,
   SiC,
@@ -16,7 +16,6 @@ const groups = [
   { icon: SiTypescript, name: "TypeScript", color: "#3178C6" },
   { icon: FaJava, name: "Java", color: "#007396" },
   { icon: SiC, name: "C", color: "#A8B9CC" },
-  { icon: SiDart, name: "Dart (Learning)", color: "#0175C2" }
 ],
   },
   {
